@@ -5,7 +5,7 @@
 
 # Usage
 
-- `git clone git@github.com:nedssoft/sequelize-with-postgres-tutorial.git && cd sequelize-with-postgres-tutorial`
+- `git clone https://github.com/paogunwobi/sequelize-with-postgres.git && cd sequelize-with-postgres`
 - `cp .env.example .env`
 - Create two Postgres databases one for test and the other for development and assign the values of the connection strings to `DEV_DATABASE_URL` and `TEST_DATABASE_URL`= respectively.
 - `npm install`
